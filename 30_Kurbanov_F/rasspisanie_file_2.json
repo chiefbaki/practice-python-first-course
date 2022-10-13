@@ -1,0 +1,49 @@
+{
+
+  "one time": false;
+  "button": [
+    [{
+      "action": {
+        "type": "text",
+        "label": "на сегодня"
+      },
+      "color": "positive"
+    }],
+     [{
+      "action": {
+        "type": "text",
+        "label": "на завтра"
+      },
+       "color": "negative"
+    }],
+     [{
+      "action": {
+        "type": "text",
+        "label": "на эту неделю"
+      },
+       "color": "primary"
+    }],
+     [{
+      "action": {
+        "type": "text",
+        "label": "на следующую неделю"
+      },
+       "color": "primary"
+    }],
+     [{
+      "action": {
+        "type": "text",
+        "label": "какая неделя?"
+      },
+       "color": "deafult"
+    }],
+     [{
+      "action": {
+        "type": "text",
+        "label": "какая группа?"
+      },
+       "color": "default"
+    }]
+  ]
+
+}
